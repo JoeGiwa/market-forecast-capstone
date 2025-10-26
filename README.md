@@ -1,7 +1,7 @@
 # 📈 Market Forecast Capstone
 
 **Graduate Data Science Capstone Project (2025)**  
-Author: *[Your Name]*  
+Author: *Joseph Giwa*  
 Environment: Google Colab + GitHub  
 Primary Ticker: **SPY (S&P 500 Index)**  
 Project Period: 2019–Present (expandable up to 25 years)  
