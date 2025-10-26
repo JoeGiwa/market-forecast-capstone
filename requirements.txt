@@ -1,0 +1,44 @@
+# Core Data Science
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+scipy==1.13.1
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.24.1
+
+# Machine Learning Models
+xgboost==2.1.1
+catboost==1.2.5
+lightgbm==4.4.0
+tensorflow==2.17.0
+keras==3.4.1
+prophet==1.1.5
+
+# Time Series / Stats
+statsmodels==0.14.2
+pmdarima==2.0.4
+
+# NLP & Sentiment
+vaderSentiment==3.3.2
+transformers==4.45.2
+torch==2.4.0
+nltk==3.9.1
+
+# APIs / Data Access
+requests==2.32.3
+fredapi==0.5.2
+alpha_vantage==3.0.0
+
+# Utility / System
+tqdm==4.66.4
+pyyaml==6.0.2
+python-dotenv==1.0.1
+rich==13.9.1
+
+# Jupyter / Colab / Notebook Helpers
+ipython==8.26.0
+jupyter==1.1.1
+notebook==7.2.2
