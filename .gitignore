@@ -15,3 +15,12 @@ __pycache__/
 data/
 raw/
 .DS_Store
+
+# Ignore sensitive and generated files
+.env
+*.env
+__pycache__/
+.ipynb_checkpoints/
+data/
+raw/
+.DS_Store
