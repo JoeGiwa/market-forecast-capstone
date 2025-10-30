@@ -31,7 +31,8 @@ nltk==3.9.1
 requests==2.32.3
 fredapi==0.5.2
 alpha_vantage==3.0.0
-alpaca-trade-api==3.2.0
+alpaca-py==0.43.1
+
 
 
 # Utility / System
